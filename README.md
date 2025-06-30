@@ -62,7 +62,7 @@
 <li>Support HR and operations with clean attendance data</li></ul>
 
 <h2>Report Pages</h2>
-
+<p>
 <ol>
 <li>MainPage</li>
 
@@ -93,6 +93,8 @@
 </ul>
 </ul>
 
+<img src="images/page2.png">
+
 <li>Zones</li>
 
 <ul>
@@ -104,6 +106,8 @@
 </ul>
 </ul>
 
+<img src="images/page3.png">
+
 <li>FlowChart</li>
 
 <ul>
@@ -114,6 +118,9 @@
 </ul>
 </ul>
 </ol>
+</p>
+
+<img src="images/page4.png">
 
 <h4>Author</h4>
 
