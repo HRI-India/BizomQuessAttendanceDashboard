@@ -1,4 +1,4 @@
-<H1>Bizom & Quess Attendance Dashboard<H1>
+<H1>Bizom & Quess Attendance Dashboard</H1>
 
 <p>This repository contains a Power BI project focused on analyzing employee attendance data across multiple divisions such as GT_Bizom, GT_Quess, PD_Bizom, PD_Quess, and others. The dashboard is built to help visualize trends in attendance, identify compliance, and compare attendance metrics across different teams and zones.</p>
 
@@ -13,7 +13,7 @@
 <li>Identification of employees present in one division but not in another</li>
 </ul>
 
-<H2>Tools Used<H2>
+<H2>Tools Used</H2>
 
 <ul>
 <li>Power BI Desktop</li>
@@ -24,7 +24,7 @@
 <li>Visual Studio</li>
 <li>GitHub for version control</li></ul>
 
-<H2>Dataset Structure<H2>
+<H2>Dataset Structure</H2>
 
 <p>The project uses the following key tables:</p>
 
@@ -77,6 +77,8 @@
 <li>Division-wise bar charts</li>
 </ul>
 </ul>
+
+<img src="C:\HRI DATA\Documents\AttendanceDataset\images\page1.png">
 
 <li>Division</li>
 
