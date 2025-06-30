@@ -78,7 +78,7 @@
 </ul>
 </ul>
 
-<img src="C:\HRI DATA\Documents\AttendanceDataset\images\page1.png">
+<img src="images/page1.png" width="600">
 
 <li>Division</li>
 
@@ -99,8 +99,8 @@
 <li>Purpose: Track attendance zone-wise (North, South, etc.).</li>
 <li>Key visuals:</li>
 <ul>
-Count of EMP_ID by Zone
-Performance comparison across regions
+<li>Count of EMP_ID by Zone</li>
+<li>Performance comparison across regions</li>
 </ul>
 </ul>
 
