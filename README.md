@@ -78,7 +78,7 @@
 </ul>
 </ul>
 
-<img src="images/page1.png" width="600">
+<img src="images/page1.png">
 
 <li>Division</li>
 
